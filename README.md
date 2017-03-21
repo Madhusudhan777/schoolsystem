@@ -1,0 +1,2 @@
+# schoolsystem
+basic login auth
